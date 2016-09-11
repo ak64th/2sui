@@ -1,0 +1,11 @@
+@import "../../bower_components/susy/sass/susy";
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+.banner {
+  color: red;
+  position: absolute;
+  height: 455px;
+  width: 980px;
+}

@@ -1,0 +1,11 @@
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box; }
+
+.banner {
+  color: red;
+  position: absolute;
+  height: 455px;
+  width: 980px; }
+
+/*# sourceMappingURL=app.css.map */

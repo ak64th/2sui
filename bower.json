@@ -1,0 +1,21 @@
+{
+  "name": "2sui",
+  "description": "2sui",
+  "main": "gulpfile.js",
+  "authors": [
+    "郁骏 <ak64th@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "^2.2.12"
+  }
+}
